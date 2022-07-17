@@ -76,15 +76,15 @@ technologies to meet future requirements.</br>
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/akankushjnvku/account)
+[<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" />](https://www.kaggle.com/piyush2411)
 [<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">](https://github.com/piyusht2411)
 [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/th_piyush_singh) 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/piyush-thakur-786315207/)
-[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@ak.ankush2000)
+[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@piyushthakur241199)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/th.piyush_singh/)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankushjnvku" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akankushjnvku&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankushjnvku" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akankushjnvku&show_icons=true&theme=radical" alt="piyush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
 
 
 
