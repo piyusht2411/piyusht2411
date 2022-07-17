@@ -23,7 +23,6 @@ My other love is information technology. I have many plans to implement newer te
 [![CodingNinjas](https://img.shields.io/badge/-CodingNinjas-orange?style=flat&amp;labelColor=white&amp;logo=codingninjas&amp;logoColor=orange)](https://www.codingninjas.com)
 [![Connect on StackOverflow](https://img.shields.io/badge/-StackOverflow-FE7A16?style=flat&amp;labelColor=white&amp;logo=StackOverflow&amp;logoColor=FE7A16)](https://stackoverflow.com)
 [![Kaggle](https://img.shields.io/badge/-Kaggle-blue?style=flat&amp;labelColor=white&amp;logo=kaggle&amp;logoColor=blue)](https://www.kaggle.com)
-[![CodeChef](https://img.shields.io/badge/-CodeChef-FE7A16?style=flat&amp;labelColor=white&amp;logo=CodeChef;logoColor=FE7A16)](https://www.codechef.com/)
 
 - 🌱 I’m currently in love with <b>DeepLearning</b>
 - 🔭 Simultaneously exploring <b>Web3</b>
