@@ -85,10 +85,9 @@ Passionate about **problem-solving, full-stack development, and new technologies
 ---
 
 ### 📈 **GitHub Stats**
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyusht2411&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=piyusht2411&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyusht2411&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
