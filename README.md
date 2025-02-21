@@ -46,7 +46,7 @@ Passionate about **problem-solving, full-stack development, and new technologies
 ---
 
 ### 💻 **Languages and Tools**  
-<p align="left">
+<p align="left" style="display: flex; gap: 20px;">
   <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> 
   <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
@@ -65,7 +65,7 @@ Passionate about **problem-solving, full-stack development, and new technologies
 ---
 
 ### 📈 **GitHub Stats**
-<p>
+<p style="display: flex;flex-wrap: wrap; gap: 20px; align-items: flex-start;justify-content: center;">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=piyusht2411&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api?username=piyusht2411&show_icons=true&theme=radical" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=piyusht2411&layout=compact&theme=radical" alt="Top Languages" />
