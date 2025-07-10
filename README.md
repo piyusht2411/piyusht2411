@@ -27,7 +27,7 @@ Passionate about **problem-solving, full-stack development, and new technologies
 ✔ UI/UX Enhancement  
 
 📫 **Reach me at:** piyushthakur241199@gmail.com  
-🌍 **Portfolio:** [My Portfolio](https://piyusht2411.github.io/My-Portfolio/)  
+🌍 **Portfolio:** [My Portfolio](https://piyush-portfolio-inky.vercel.app)  
 📌 **GitHub:** [piyusht2411](https://github.com/piyusht2411/)  
 💼 **LinkedIn:** [piyusht2411](https://www.linkedin.com/in/piyusht2411/)  
 
